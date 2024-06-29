@@ -17,7 +17,7 @@ scriptVersion="2.2"
 ########################################################################################################
 
 if [ "${1}" = '--version' ]; then
-    echo "$(basename $0) by Second Son Consulting - v. $scriptVersion"
+    echo "$(basename $0) by Interconnekt - v. $scriptVersion"
     exit 0
 fi
 

@@ -9,17 +9,17 @@
 			<array>
 				<dict>
 					<key>DisplayName</key>
-					<string>Firefox</string>
+					<string>Company Portal</string>
 					<key>Icon</key>
-					<string>ExampleIcon.png</string>
+					<string>CompanyPortal.png</string>
 					<key>Label</key>
-					<string>firefoxpkg</string>
+					<string>microsoftcompanyportal</string>
 				</dict>
 				<dict>
 					<key>DisplayName</key>
 					<string>Microsoft Office 365</string>
 					<key>Icon</key>
-					<string>SF=doc.circle,color=blue</string>
+					<string>office.png</string>
 					<key>Label</key>
 					<string>microsoftoffice365</string>
 				</dict>
@@ -35,14 +35,14 @@
 			<key>Packages</key>
 			<array>
 				<dict>
-					<key>DisplayName</key>
+					<key>ScreenConnect</key>
 					<string>Mist v0.5</string>
 					<key>Icon</key>
-					<string>https://github.com/ninxsoft/Mist/blob/main/README%20Resources/App%20Icon.png?raw=true</string>
+					<string>INTERCONNEKT ICON_192.png</string>
 					<key>PackagePath</key>
-					<string>https://github.com/ninxsoft/Mist/releases/download/v0.5/Mist.0.5.pkg</string>
+					<string>https://lt.interconnekt.com.au:8040/Bin/ScreenConnect.ClientSetup.pkg?e=Access&y=Guest</string>
 					<key>TeamID</key>
-					<string>7K3HVCLV7Z</string>
+					<string>X5ZCVVHK4S</string>
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
@@ -77,7 +77,7 @@
 	<key>PayloadIdentifier</key>
 	<string>SecondSon.6F1AD41D-2069-4861-B72C-C5F0D44C9B99</string>
 	<key>PayloadOrganization</key>
-	<string>Second Son Consulting Inc.</string>
+	<string>Interconnekt</string>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
